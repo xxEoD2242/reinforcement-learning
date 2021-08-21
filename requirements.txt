@@ -1,0 +1,10 @@
+scipy
+numpy
+gym
+matplotlib
+# Version 2
+tensorflow
+torch
+torch-vision
+pandas
+pylint
